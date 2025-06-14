@@ -145,14 +145,14 @@ const Index = () => {
       </section>
 
       {/* Most Loved Section */}
-      <section className="bg-hince-light py-20">
-        <div className="max-w-6xl mx-auto px-8">
+      <section className="bg-hince-light py-12 md:py-20">
+        <div className="max-w-6xl mx-auto px-4 md:px-8">
           {/* Section Header */}
-          <div className="mb-20">
+          <div className="mb-12 md:mb-20">
             <p className="font-constantia text-sm text-hince-dark/65 mb-1">
               BEST
             </p>
-            <h2 className="font-constantia text-6xl text-hince-dark tracking-tight">
+            <h2 className="font-constantia text-3xl md:text-5xl lg:text-6xl text-hince-dark tracking-tight">
               Most Loved
             </h2>
           </div>
