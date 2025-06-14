@@ -193,7 +193,7 @@ const Index = () => {
         {promoProducts.map((product, index) => (
           <div
             key={index}
-            className="relative h-[1200px] flex"
+            className="relative h-[600px] md:h-[800px] lg:h-[1200px] flex flex-col lg:flex-row"
             style={{ display: index === currentSlide ? "flex" : "none" }}
           >
             {/* Product Image */}
