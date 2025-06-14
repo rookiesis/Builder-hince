@@ -99,7 +99,7 @@ const Index = () => {
       <Header />
 
       {/* Hero Section */}
-      <section className="relative h-[1200px] bg-hince-primary overflow-hidden">
+      <section className="relative h-[600px] md:h-[800px] lg:h-[1200px] bg-hince-primary overflow-hidden">
         {/* Background Image */}
         <div
           className="absolute inset-0 bg-cover bg-center"
