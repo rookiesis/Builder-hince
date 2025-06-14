@@ -79,19 +79,19 @@ const Index = () => {
     {
       title: "무드인핸서 립 글로우",
       englishTitle: "Mood Enhancer Lip Glow",
-      description: "선명하고 촉촉한 비건 고보습 립 글로우",
+      description: "선명하��� 촉촉한 비건 고보습 립 글로우",
       image:
         "https://images.pexels.com/photos/7433333/pexels-photo-7433333.jpeg",
     },
   ];
 
   const socialImages = [
-    "/api/placeholder/432/432",
-    "/api/placeholder/432/432",
-    "/api/placeholder/432/432",
-    "/api/placeholder/432/432",
-    "/api/placeholder/432/432",
-    "/api/placeholder/432/432",
+    "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
+    "https://images.pexels.com/photos/7433333/pexels-photo-7433333.jpeg",
+    "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
+    "https://images.pexels.com/photos/7433333/pexels-photo-7433333.jpeg",
+    "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
+    "https://images.pexels.com/photos/7433333/pexels-photo-7433333.jpeg",
   ];
 
   return (
