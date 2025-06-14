@@ -66,19 +66,22 @@ const Index = () => {
       englishTitle: "New Depth Dual Color Stick",
       description:
         "듀얼 컬러로 쉽고 빠르게 또렷한 눈매를 연출해주는 멀티 라이너",
-      image: "/api/placeholder/600/600",
+      image:
+        "https://images.pexels.com/photos/7433333/pexels-photo-7433333.jpeg",
     },
     {
       title: "킹스베리 비타 콜라겐 마스크",
       englishTitle: "Kings Berry Vita Collagen Mask",
       description: "킹스베리 비타 레시피로 화잘먹#끌올탱글광피부",
-      image: "/api/placeholder/600/600",
+      image:
+        "https://images.pexels.com/photos/7433333/pexels-photo-7433333.jpeg",
     },
     {
       title: "무드인핸서 립 글로우",
       englishTitle: "Mood Enhancer Lip Glow",
       description: "선명하고 촉촉한 비건 고보습 립 글로우",
-      image: "/api/placeholder/600/600",
+      image:
+        "https://images.pexels.com/photos/7433333/pexels-photo-7433333.jpeg",
     },
   ];
 
