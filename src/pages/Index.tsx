@@ -215,14 +215,14 @@ const Index = () => {
 
             {/* Content */}
             <div className="flex-1 bg-white flex items-center">
-              <div className="px-8 py-20 max-w-2xl">
+              <div className="px-4 md:px-8 py-8 md:py-20 max-w-2xl">
                 <p className="font-noto-kr text-sm text-hince-dark/65 mb-4">
                   {product.title}
                 </p>
-                <h2 className="font-constantia text-6xl text-hince-dark mb-8 leading-tight tracking-tight">
+                <h2 className="font-constantia text-3xl md:text-5xl lg:text-6xl text-hince-dark mb-6 md:mb-8 leading-tight tracking-tight">
                   {product.englishTitle}
                 </h2>
-                <p className="font-noto-kr text-xl text-hince-dark mb-12 leading-relaxed">
+                <p className="font-noto-kr text-lg md:text-xl text-hince-dark mb-8 md:mb-12 leading-relaxed">
                   {product.description}
                 </p>
                 <a
