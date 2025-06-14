@@ -20,37 +20,43 @@ const Index = () => {
       id: 1,
       name: "로 글로우 젤 틴트",
       subtitle: "로 로즈",
-      image: "/api/placeholder/280/373",
+      image:
+        "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
     },
     {
       id: 2,
       name: "슬림 스틱 멜팅 매트",
       subtitle: "페이드아웃",
-      image: "/api/placeholder/280/373",
+      image:
+        "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
     },
     {
       id: 3,
       name: "트루 디멘션 래디언스 밤",
       subtitle: "릴 모브",
-      image: "/api/placeholder/280/373",
+      image:
+        "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
     },
     {
       id: 4,
       name: "로 글로우 듀이 볼",
       subtitle: "로로즈 듀",
-      image: "/api/placeholder/280/373",
+      image:
+        "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
     },
     {
       id: 5,
       name: "세컨 스킨 메쉬 매트 쿠션+리필 SET",
       subtitle: "포슬린",
-      image: "/api/placeholder/280/373",
+      image:
+        "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
     },
     {
       id: 6,
       name: "오 드 퍼퓸",
       subtitle: "더 필로우",
-      image: "/api/placeholder/280/373",
+      image:
+        "https://images.pexels.com/photos/9219006/pexels-photo-9219006.jpeg",
     },
   ];
 
