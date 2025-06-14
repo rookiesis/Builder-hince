@@ -333,7 +333,7 @@ const Index = () => {
           {/* Store Image */}
           <div className="px-8">
             <img
-              src="/api/placeholder/600/629"
+              src="https://images.pexels.com/photos/13068364/pexels-photo-13068364.jpeg"
               alt="Store interior"
               className="w-full max-w-lg object-cover rounded-lg"
             />
