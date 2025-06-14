@@ -11,14 +11,14 @@ const Index = () => {
       title: "Raw Glow",
       subtitle: "RAW GLOW DEWY BALL",
       image:
-        "https://cdn.builder.io/api/v1/image/assets%2Fd1ceeaaa11c54a0caaa45c42f92c53ef%2F73b3889e38084002b30e0443dfaf89c3?format=webp&width=800",
+        "https://images.pexels.com/photos/7433333/pexels-photo-7433333.jpeg",
     },
   ];
 
   const mostLovedProducts = [
     {
       id: 1,
-      name: "로 글로우 젤 ���트",
+      name: "로 글로우 젤 틴트",
       subtitle: "로 로즈",
       image: "/api/placeholder/280/373",
     },
