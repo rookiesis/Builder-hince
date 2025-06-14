@@ -122,11 +122,13 @@ const Index = () => {
         </button>
 
         {/* Content */}
-        <div className="absolute bottom-32 left-8 text-white">
-          <h1 className="font-constantia text-6xl mb-2 tracking-tight">
+        <div className="absolute bottom-16 md:bottom-32 left-4 md:left-8 text-white">
+          <h1 className="font-constantia text-3xl md:text-5xl lg:text-6xl mb-2 tracking-tight">
             {heroProducts[0].title}
           </h1>
-          <p className="font-arial text-xl mb-12">{heroProducts[0].subtitle}</p>
+          <p className="font-arial text-lg md:text-xl mb-8 md:mb-12">
+            {heroProducts[0].subtitle}
+          </p>
           <a
             href="#"
             className="text-white text-base font-arial underline opacity-75 hover:opacity-100 tracking-wide"
