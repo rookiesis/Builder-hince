@@ -300,7 +300,7 @@ const Index = () => {
         {/* Left Side - Store Image */}
         <div className="flex-1 relative">
           <img
-            src="/api/placeholder/960/1200"
+            src="https://images.pexels.com/photos/13068364/pexels-photo-13068364.jpeg"
             alt="hince hannam store"
             className="w-full h-full object-cover"
           />
